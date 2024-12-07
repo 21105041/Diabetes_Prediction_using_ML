@@ -5,7 +5,6 @@ This is a Diabetes prediction project of 768 female patients using Machine Learn
 
 This project aims to predict diabetes in patients using machine learning models. The dataset includes various medical diagnostic features such as glucose level, blood pressure, BMI, and insulin, which are analyzed and used to train predictive models. The project explores data preprocessing, feature engineering, and model evaluation, making it an excellent example of applying data analytics and machine learning in healthcare.
 
----
 
 ## Dataset
 
@@ -22,7 +21,6 @@ The dataset used is the **Pima Indians Diabetes Database** from Kaggle. It conta
 - **Age**: Age of the patient.
 - **Outcome**: Indicates diabetes presence (1 = Yes, 0 = No).
 
----
 
 ## Project Workflow
 
@@ -66,7 +64,6 @@ Metrics calculated:
 ### 6. **Class Imbalance Handling**
 - Implemented **SMOTE** (Synthetic Minority Oversampling Technique) and adjusted class weights to address imbalance in the outcome variable.
 
----
 
 ## Insights
 
@@ -74,7 +71,6 @@ Metrics calculated:
 2. Feature engineering and interaction terms enhanced model performance, highlighting the importance of derived attributes.
 3. Addressing class imbalance through SMOTE improved model fairness but did not drastically change performance metrics.
 
----
 
 ## Technical Skills Demonstrated
 - Data preprocessing (handling missing values, normalization, and transformations).
@@ -84,7 +80,6 @@ Metrics calculated:
 - Handling class imbalance with techniques like **SMOTE**.
 - Interpretation of classification metrics for healthcare applications.
 
----
 
 ## How to Use This Repository
 
